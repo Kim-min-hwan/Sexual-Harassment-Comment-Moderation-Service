@@ -1,3 +1,6 @@
+<p>$\it{\large{\color{#DD6565}!본\ 페이지에는\ 선정적\ 문장이\ 포함되어\ 있습니다!}}$</p>
+
+
 # Sexual-Harassment-Comment-Filtering-Service
 * KoELECTRA 모델을 이용한 유튜브 내 성희롱 댓글 탐지 및 실시간 성희롱 댓글 검열 서비스
 
